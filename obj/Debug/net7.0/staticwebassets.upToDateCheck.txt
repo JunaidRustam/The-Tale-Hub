@@ -1,0 +1,10 @@
+wwwroot\3rdpartylicenses.txt
+wwwroot\assets\images\websitelogo.jfif
+wwwroot\favicon.ico
+wwwroot\index.html
+wwwroot\main.58b4236dd1770741.js
+wwwroot\polyfills.50e4050ce39d7b80.js
+wwwroot\runtime.0675421fb393d473.js
+wwwroot\scripts.2c76487ca5c4241e.js
+wwwroot\styles.f8e3132b35359c87.css
+wwwroot\websitelogo.jfif
